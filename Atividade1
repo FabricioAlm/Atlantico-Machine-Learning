@@ -1,0 +1,25 @@
+Atividade 01 (ATIV-01)
+
+1. Explique, com suas palavras, o que é machine learning? 
+Machine Learning é um subcampo da Inteligência Artificial que cria modelos através do tratamento de dados para tomada de decisão ou para gerar previsões. O interessante é que o ML vai aprendendo a medida 
+que o processamento é realizado.
+
+
+2. Explique o conceito de conjunto de treinamento, conjunto de validação e conjunto de teste em machine learning. 
+Basicamente, o treinamento trabalha no processamento dos dados e ajuste de parâmetros buscando o melhor resultado para criar o modelo. A validação é utilizado para ajuste dos hiperparâmetros. O teste é
+utilizado no final para avaliar a capacidade que o modelo tem de pegar dados novos e tratá-los.
+
+
+3. Explique como você lidaria com dados ausentes em um conjunto de dados de treinamento. 
+Inicialmente, a presença de dados ausentes compromete o resultado do modelo. Por isso, é necessário tratar os dados, retirando estes dados ausentes. Com isto, um passo que poderia ser realizado é a exclusão
+dos dados ausentes.
+
+
+4. O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo? 
+A matriz de confusão é um modelo que trabalha com valores reais mostrando o resultado de acerto e erros. Ele trabalha com as classificações de verdadeiro positivo, verdadeiro negativo, falso positivo, falso 
+negativo. A matriz de confusão permite realizar cálculos de metricas como acurácia, previsão, recall e F1-score.
+
+
+5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning? 
+Temos muitas aplicações reais. Na saúde, acho interessante o uso na previsão de uma patologia com dados do paciente (hemogramas, raio x, imagens de exames em geral). Na indústria, a previsão de vendas é muito 
+interessante para o comercial. Também é possível aplicar a detecção de poluição do ar ou em efluentes, inspeções visuais, dentre outras.
